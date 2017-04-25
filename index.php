@@ -3,6 +3,6 @@
   <title>TEST</title>
 </head>
 <body>
-  <h2>GitHub Repository Test</h2>
+  <h2>GitHub Repository Test2</h2>
 </body>
 </html>
